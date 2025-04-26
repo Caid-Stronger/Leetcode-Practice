@@ -1,5 +1,6 @@
 # Leetcode-Practice
 Daily LeetCode practice notes and solutions. Recording my growth, thought and reflection. 
+
 Using both Chinese and English to  record key concepts of each problems.
 
 ## Arrary 
