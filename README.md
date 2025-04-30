@@ -11,6 +11,6 @@ Using both Chinese and English to  record key concepts of each problems.
 [59. Spiral Matrix II](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/Array/59.%20Spiral%20Matrix%20II.md) <br>
 
 ## Linked List 
-[203. Remove Linked List Elements] <br>
+[203. Remove Linked List Elements](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/linked%20list/203.%20Remove%20Linked%20List%20Elements.md) <br>
 [707. Design Linked List] <br>
 [206. Reverse Linked List] <br>
