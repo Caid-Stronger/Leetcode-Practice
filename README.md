@@ -3,6 +3,11 @@ Daily LeetCode practice notes and solutions. Recording my growth, thought and re
 
 Using both Chinese and English to  record key concepts of each problems.
 
+## Pandas 
+
+
+
+
 ## Arrary 
 [27. Remove Element](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/Array/27.%20Remove%20Element.md) <br>
 [704 Binary Search](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/Array/704%20Binary%20Search.md) <br>
