@@ -24,3 +24,9 @@ Using both Chinese and English to  record key concepts of each problems.
 [142.Linked List Cycle](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/linked%20list/142.Linked%20List%20Cycle.md) <br> 
 [19. Remove Nth Node From End of List](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/linked%20list/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) <br> 
 
+## Hash Table 
+[242.Valid Anagram](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/Hash%20Table/242.%20Valid%20Anagram.md) <br> 
+
+## String 
+[344. Reverse String](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/String/344.%20Reverse%20String.md) <br>
+[541. Reverse String II](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/String/541.%20Reverse%20String%20II.md) <br>
