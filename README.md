@@ -26,6 +26,9 @@ Using both Chinese and English to  record key concepts of each problems.
 
 ## Hash Table 
 [242.Valid Anagram](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/Hash%20Table/242.%20Valid%20Anagram.md) <br> 
+[349. Intersection of Two Arrays](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/Hash%20Table/349.%20%20Intersection%20of%20Two%20Arrays.md) <br> 
+
+
 
 ## String 
 [344. Reverse String](https://github.com/Caid-Stronger/Leetcode-Practice/blob/main/String/344.%20Reverse%20String.md) <br>
